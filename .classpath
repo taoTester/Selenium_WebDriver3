@@ -5,5 +5,13 @@
 	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/selenium-server-standalone-2.44.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/selenium-java-2.44.0/selenium-2.44.0/selenium-java-2.44.0.jar" sourcepath="C:/Users/LT/Desktop/Autotest/selenium-java-2.44.0/selenium-2.44.0/selenium-java-2.44.0-srcs.jar"/>
 	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/junit-4.11.jar" sourcepath="C:/Users/LT/Desktop/Autotest/junit-4.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/poi-bin-3.11-20141221/poi-3.11/poi-3.11-20141221.jar" sourcepath="C:/Users/LT/Desktop/Autotest/poi-src-3.11-20141221.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/poi-bin-3.11-20141221/poi-3.11/poi-examples-3.11-20141221.jar" sourcepath="C:/Users/LT/Desktop/Autotest/poi-src-3.11-20141221.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/poi-bin-3.11-20141221/poi-3.11/poi-excelant-3.11-20141221.jar" sourcepath="C:/Users/LT/Desktop/Autotest/poi-src-3.11-20141221.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/poi-bin-3.11-20141221/poi-3.11/poi-ooxml-3.11-20141221.jar" sourcepath="C:/Users/LT/Desktop/Autotest/poi-src-3.11-20141221.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/poi-bin-3.11-20141221/poi-3.11/poi-ooxml-schemas-3.11-20141221.jar" sourcepath="C:/Users/LT/Desktop/Autotest/poi-src-3.11-20141221.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/poi-bin-3.11-20141221/poi-3.11/poi-scratchpad-3.11-20141221.jar" sourcepath="C:/Users/LT/Desktop/Autotest/poi-src-3.11-20141221.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/poi-bin-3.11-20141221/poi-3.11/ooxml-lib/xmlbeans-2.6.0.jar" sourcepath="C:/Users/LT/Desktop/Autotest/poi-src-3.11-20141221.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LT/Desktop/Autotest/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar" sourcepath="C:/Users/LT/Desktop/Autotest/log4j-1.2.16-sources.jar/log4j-1.2.16-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
